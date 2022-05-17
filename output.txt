@@ -1,0 +1,762 @@
+Welcome to the smart schedule planner.
+Here you will enter all courses you plan to take,
+the available sections of these courses,
+and the days and times these sections meet.
+Then you will be displayed with the best possible
+combinations of course sections you can take together.
+It is not possible to correct mistakes so make sure to
+double check all values before inputting them.
+
+What is the course name?
+(type 'finish' if finished adding courses)
+EGR122
+How many units is EGR122 worth?
+3
+Enter a section ID for EGR122 (you can add more later).
+(type 'done' if completed)
+B
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+2pm
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+3:30pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR122 (you can add more later).
+(type 'done' if completed)
+c
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+12:15pm
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+1:45pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR122 (you can add more later).
+(type 'done' if completed)
+E
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+8:45am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:15am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR122 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+EGR122 (3 units)-------------------
+Section B: [T/R 2:00PM-3:30PM]
+Section C: [T/R 12:15PM-1:45PM]
+Section E: [T/R 8:45AM-10:15AM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+EGR305
+How many units is EGR305 worth?
+2
+Enter a section ID for EGR305 (you can add more later).
+(type 'done' if completed)
+B
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+12:15pm
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+1:45pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR305 (you can add more later).
+(type 'done' if completed)
+C
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+10:30am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+12pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR305 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+EGR305 (2 units)-------------------
+Section B: [T/R 12:15PM-1:45PM]
+Section C: [T/R 10:30AM-12:00PM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+EGR306
+How many units is EGR306 worth?
+1
+Enter a section ID for EGR306 (you can add more later).
+(type 'done' if completed)
+A
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+w
+Enter the start time on w in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+2:30pm
+Enter the end time on w in the format: HH:MM<a/p>m or H:MM<a/p>m
+3:30pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR306 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+EGR306 (1 units)-------------------
+Section A: [W 2:30PM-3:30PM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+EGR324
+How many units is EGR324 worth?
+3
+Enter a section ID for EGR324 (you can add more later).
+(type 'done' if completed)
+A
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+m,w,f
+Enter the start time on m,w,f in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+10:45am
+Enter the end time on m,w,f in the format: HH:MM<a/p>m or H:MM<a/p>m
+11:45am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR324 (you can add more later).
+(type 'done' if completed)
+b
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+m,w,f
+Enter the start time on m,w,f in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+9:30am
+Enter the end time on m,w,f in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:30am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR324 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+EGR324 (3 units)-------------------
+Section A: [M/W/F 10:45AM-11:45AM]
+Section B: [M/W/F 9:30AM-10:30AM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+GST050
+How many units is GST050 worth?
+0
+Enter a section ID for GST050 (you can add more later).
+(type 'done' if completed)
+A
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t
+Enter the start time on t in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+9am
+Enter the end time on t in the format: HH:MM<a/p>m or H:MM<a/p>m
+10am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for GST050 (you can add more later).
+(type 'done' if completed)
+b
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t
+Enter the start time on t in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+10:45am
+Enter the end time on t in the format: HH:MM<a/p>m or H:MM<a/p>m
+11:45am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for GST050 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+GST050 (0 units)-------------------
+Section A: [T 9:00AM-10:00AM]
+Section B: [T 10:45AM-11:45AM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+phy203
+How many units is PHY203 worth?
+4
+Enter a section ID for PHY203 (you can add more later).
+(type 'done' if completed)
+a
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+m,w,f
+Enter the start time on m,w,f in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+9:30am
+Enter the end time on m,w,f in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:30am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+8:45am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:15am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for PHY203 (you can add more later).
+(type 'done' if completed)
+B
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+m,w,f
+Enter the start time on m,w,f in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+9:30am
+Enter the end time on m,w,f in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:30am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+10:30am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+12pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for PHY203 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+PHY203 (4 units)-------------------
+Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+CSC311
+How many units is CSC311 worth?
+3
+Enter a section ID for CSC311 (you can add more later).
+(type 'done' if completed)
+A
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+12:15pm
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+1:45pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for CSC311 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+CSC311 (3 units)-------------------
+Section A: [T/R 12:15PM-1:45PM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+done
+What is the course name?
+(type 'finish' if finished adding courses)
+EGR329
+How many units is EGR329 worth?
+3
+Enter a section ID for EGR329 (you can add more later).
+(type 'done' if completed)
+A
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+10:30am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+12pm
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR329 (you can add more later).
+(type 'done' if completed)
+B
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+t,r
+Enter the start time on t,r in the format:
+TT:TT<A/P>M
+ T:TT<A/P>M
+   TT<A/P>M
+8:45am
+Enter the end time on t,r in the format: HH:MM<a/p>m or H:MM<a/p>m
+10:15am
+Enter days of the week this class meets at a specific time separated by commas
+(ex: M,T,W,R,F,SA,SU).
+Note: You can add additional dates with different meeting hours later as needed.
+(type 'done' if completed)
+done
+Enter a section ID for EGR329 (you can add more later).
+(type 'done' if completed)
+done
+Current course info:
+
+EGR329 (3 units)-------------------
+Section A: [T/R 10:30AM-12:00PM]
+Section B: [T/R 8:45AM-10:15AM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+show
+[
+EGR122 (3 units)-------------------
+Section B: [T/R 2:00PM-3:30PM]
+Section C: [T/R 12:15PM-1:45PM]
+Section E: [T/R 8:45AM-10:15AM]
+, 
+EGR305 (2 units)-------------------
+Section B: [T/R 12:15PM-1:45PM]
+Section C: [T/R 10:30AM-12:00PM]
+, 
+EGR306 (1 units)-------------------
+Section A: [W 2:30PM-3:30PM]
+, 
+EGR324 (3 units)-------------------
+Section A: [M/W/F 10:45AM-11:45AM]
+Section B: [M/W/F 9:30AM-10:30AM]
+, 
+GST050 (0 units)-------------------
+Section A: [T 9:00AM-10:00AM]
+Section B: [T 10:45AM-11:45AM]
+, 
+PHY203 (4 units)-------------------
+Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+, 
+CSC311 (3 units)-------------------
+Section A: [T/R 12:15PM-1:45PM]
+]
+Press enter to continue...
+
+
+Current course info:
+
+EGR329 (3 units)-------------------
+Section A: [T/R 10:30AM-12:00PM]
+Section B: [T/R 8:45AM-10:15AM]
+
+Actions:
+done - Add this course to the planner and continue adding courses
+delete - Delete this course and continue adding courses
+finish - Finish adding courses and proceed to finding available schedules
+show - Show current courses not including the current course
+finish
+What is the minimum number of units you are willing to take?
+14
+
+Schedule #1:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 17
+
+Schedule #2:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 17
+
+Schedule #3:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section B: [T/R 12:15PM-1:45PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 16
+
+Schedule #4:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section B: [T/R 12:15PM-1:45PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 16
+
+Schedule #5:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 16
+
+Schedule #6:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 16
+
+Schedule #7:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 16
+
+Schedule #8:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 15
+
+Schedule #9:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section B: [M/W/F 9:30AM-10:30AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 15
+
+Schedule #10:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 15
+
+Schedule #11:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section B: [T/R 12:15PM-1:45PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 15
+
+Schedule #12:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section B: [T/R 12:15PM-1:45PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 15
+
+Schedule #13:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 14
+
+Schedule #14:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+GST050 (0 units)Section B: [T 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 14
+
+Schedule #15:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 14
+
+Schedule #16:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 14
+
+Schedule #17:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+GST050 (0 units)Section A: [T 9:00AM-10:00AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 14
+
+Schedule #18:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
+
+Schedule #19:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 14
+
+Schedule #20:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
+
+Schedule #21:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
+
+Schedule #22:
+EGR122 (3 units)Section B: [T/R 2:00PM-3:30PM]
+EGR305 (2 units)Section C: [T/R 10:30AM-12:00PM]
+EGR324 (3 units)Section B: [M/W/F 9:30AM-10:30AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
+
+Schedule #23:
+EGR122 (3 units)Section C: [T/R 12:15PM-1:45PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 14
+
+Schedule #24:
+EGR122 (3 units)Section C: [T/R 12:15PM-1:45PM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
+
+Schedule #25:
+EGR122 (3 units)Section E: [T/R 8:45AM-10:15AM]
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+Total units: 14
+
+Schedule #26:
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section A: [M/W/F 9:30AM-10:30AM] [T/R 8:45AM-10:15AM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section A: [T/R 10:30AM-12:00PM]
+Total units: 14
+
+Schedule #27:
+EGR306 (1 units)Section A: [W 2:30PM-3:30PM]
+EGR324 (3 units)Section A: [M/W/F 10:45AM-11:45AM]
+PHY203 (4 units)Section B: [M/W/F 9:30AM-10:30AM] [T/R 10:30AM-12:00PM]
+CSC311 (3 units)Section A: [T/R 12:15PM-1:45PM]
+EGR329 (3 units)Section B: [T/R 8:45AM-10:15AM]
+Total units: 14
